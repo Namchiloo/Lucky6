@@ -14,4 +14,4 @@ programming language. A graphical interface that uses arbitrary Swing components
 On the screen it is necessary to display the number that is currently being drawn, the positions (fields) in which
 the drawn numbers with the amounts that the fields carry, the tickets of all players are placed and marked
 numbers on the ticket that were drawn.
-When
+
